@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2> Hello, I'm João! <img src="https://media.giphy.com/media/1fj8441ZGHV2FSc6pe/giphy.gif" width="50"></h2>
+<!-- <img align='right' src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="230"> -->
+<p><em>Graduating in Computer Science</br>Currently working as a Fullstack Developer @ Happmobi
+</em></p>
 
-<!--
-**jvgal/jvgal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div> 
+  <a href = "mailto:jv.galvao14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jvgalvao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/iNphtOxComEMFqedWw/giphy.gif" width="50"> A bit more about me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const joaoVitor = {
+  pronouns: "he" | "him",
+  code: [Javascript, TypeScript],
+  tools: [NodeJS, Angular, MongoDB],
+  favoriteBands: [TheeOhSees, KingGizzard]
+}
+```
