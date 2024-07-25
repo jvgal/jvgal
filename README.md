@@ -18,7 +18,7 @@
     <li>MongoDB</li>
     <li>Angular</li>
     <li>TypeScript</li>
-    <li>And currently learning Go</li>
+    <li>Golang</li>
   </ul>
 </div>
 
