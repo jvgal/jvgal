@@ -1,7 +1,6 @@
 <img src="https://media1.giphy.com/media/hjZ3T2Eso1wJ8QWoCl/giphy.gif?cid=790b7611fc060c41b918d329325c0643c0161a6cbab2f84a&rid=giphy.gif&ct=s" width="150">
-<h2> Hello, I'm João!</h2>
 <!-- <img align='right' src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="230"> -->
-<p>Currently working as Software Developer @ Happmobi
+<p>Currently Software Developer @ Happmobi
 </em></p>
 
 <div> 
