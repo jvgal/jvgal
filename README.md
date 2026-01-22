@@ -1,6 +1,6 @@
 <img src="https://media1.giphy.com/media/hjZ3T2Eso1wJ8QWoCl/giphy.gif?cid=790b7611fc060c41b918d329325c0643c0161a6cbab2f84a&rid=giphy.gif&ct=s" width="150">
 <!-- <img align='right' src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="230"> -->
-<p>Software Developer @ Happmobi
+<p>Mid-Level Software Developer @ Happmobi
 </em></p>
 
 <div> 
